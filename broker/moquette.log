@@ -1,0 +1,78 @@
+1    [main] INFO  Server  - Persistent store file: C:\Users\june\Desktop\nc\mqtt_broker-mcp_master\mqtt_broker-mcp_master-2a7ce5932489066690b180f9bda893cec48581f2\broker\moquette_store.mapdb
+24   [main] INFO  MapDBPersistentStore  - Starting with fresh [C:\Users\june\Desktop\nc\mqtt_broker-mcp_master\mqtt_broker-mcp_master-2a7ce5932489066690b180f9bda893cec48581f2\broker\moquette_store.mapdb] db file
+317  [main] INFO  FileAuthenticator  - Loading password file: config\password_file.conf
+641  [main] INFO  NettyAcceptor  - Server binded host: 0.0.0.0, port: 1883
+644  [main] INFO  NettyAcceptor  - Server binded host: 0.0.0.0, port: 8080
+0    [main] INFO  Server  - Persistent store file: C:\Users\june\Desktop\nc\mqtt_broker-mcp_master\mqtt_broker-mcp_master-2a7ce5932489066690b180f9bda893cec48581f2\broker\moquette_store.mapdb
+13   [main] INFO  MapDBPersistentStore  - Starting with existing [C:\Users\june\Desktop\nc\mqtt_broker-mcp_master\mqtt_broker-mcp_master-2a7ce5932489066690b180f9bda893cec48581f2\broker\moquette_store.mapdb] db file
+174  [main] INFO  FileAuthenticator  - Loading password file: config\password_file.conf
+494  [main] INFO  NettyAcceptor  - Server binded host: 0.0.0.0, port: 1883
+496  [main] INFO  NettyAcceptor  - Server binded host: 0.0.0.0, port: 8080
+0    [main] INFO  Server  - Persistent store file: C:\Users\june\Desktop\nc\mqtt_broker-mcp_master\mqtt_broker-mcp_master-2a7ce5932489066690b180f9bda893cec48581f2\broker\moquette_store.mapdb
+19   [main] INFO  MapDBPersistentStore  - Starting with existing [C:\Users\june\Desktop\nc\mqtt_broker-mcp_master\mqtt_broker-mcp_master-2a7ce5932489066690b180f9bda893cec48581f2\broker\moquette_store.mapdb] db file
+155  [main] INFO  FileAuthenticator  - Loading password file: config\password_file.conf
+420  [main] INFO  NettyAcceptor  - Server binded host: 0.0.0.0, port: 1883
+422  [main] INFO  NettyAcceptor  - Server binded host: 0.0.0.0, port: 8080
+0    [main] INFO  Server  - Persistent store file: C:\Users\june\Desktop\nc\mqtt_broker-mcp_master\mqtt_broker-mcp_master-2a7ce5932489066690b180f9bda893cec48581f2\broker\moquette_store.mapdb
+15   [main] INFO  MapDBPersistentStore  - Starting with existing [C:\Users\june\Desktop\nc\mqtt_broker-mcp_master\mqtt_broker-mcp_master-2a7ce5932489066690b180f9bda893cec48581f2\broker\moquette_store.mapdb] db file
+190  [main] INFO  FileAuthenticator  - Loading password file: config\password_file.conf
+522  [main] INFO  NettyAcceptor  - Server binded host: 0.0.0.0, port: 1883
+0    [main] INFO  Server  - Persistent store file: C:\Users\june\Desktop\nc\mqtt_broker-mcp_master\mqtt_broker-mcp_master-2a7ce5932489066690b180f9bda893cec48581f2\broker\moquette_store.mapdb
+21   [main] INFO  MapDBPersistentStore  - Starting with existing [C:\Users\june\Desktop\nc\mqtt_broker-mcp_master\mqtt_broker-mcp_master-2a7ce5932489066690b180f9bda893cec48581f2\broker\moquette_store.mapdb] db file
+198  [main] INFO  FileAuthenticator  - Loading password file: config\password_file.conf
+535  [main] INFO  NettyAcceptor  - Server binded host: 0.0.0.0, port: 1883
+0    [main] INFO  Server  - Persistent store file: C:\Users\june\Desktop\nc\mqtt_broker-mcp_master\mqtt_broker-mcp_master-2a7ce5932489066690b180f9bda893cec48581f2\broker\moquette_store.mapdb
+13   [main] INFO  MapDBPersistentStore  - Starting with existing [C:\Users\june\Desktop\nc\mqtt_broker-mcp_master\mqtt_broker-mcp_master-2a7ce5932489066690b180f9bda893cec48581f2\broker\moquette_store.mapdb] db file
+174  [main] INFO  FileAuthenticator  - Loading password file: config\password_file.conf
+515  [main] INFO  NettyAcceptor  - Server binded host: 0.0.0.0, port: 1883
+0    [main] INFO  Server  - Persistent store file: C:\Users\june\Desktop\nc\mqtt_broker-mcp_master\mqtt_broker-mcp_master-2a7ce5932489066690b180f9bda893cec48581f2\broker\moquette_store.mapdb
+18   [main] INFO  MapDBPersistentStore  - Starting with existing [C:\Users\june\Desktop\nc\mqtt_broker-mcp_master\mqtt_broker-mcp_master-2a7ce5932489066690b180f9bda893cec48581f2\broker\moquette_store.mapdb] db file
+176  [main] INFO  FileAuthenticator  - Loading password file: config\password_file.conf
+488  [main] INFO  NettyAcceptor  - Server binded host: 0.0.0.0, port: 1883
+0    [main] INFO  Server  - Persistent store file: C:\Users\june\Desktop\nc\mqtt_broker-mcp_master\mqtt_broker-mcp_master-2a7ce5932489066690b180f9bda893cec48581f2\broker\moquette_store.mapdb
+28   [main] INFO  MapDBPersistentStore  - Starting with existing [C:\Users\june\Desktop\nc\mqtt_broker-mcp_master\mqtt_broker-mcp_master-2a7ce5932489066690b180f9bda893cec48581f2\broker\moquette_store.mapdb] db file
+211  [main] INFO  FileAuthenticator  - Loading password file: config\password_file.conf
+616  [main] INFO  NettyAcceptor  - Server binded host: 0.0.0.0, port: 1883
+620  [main] INFO  NettyAcceptor  - Server binded host: 0.0.0.0, port: 8080
+0    [main] INFO  Server  - Persistent store file: C:\Users\june\Desktop\nc\mqtt_broker-mcp_master\mqtt_broker-mcp_master-2a7ce5932489066690b180f9bda893cec48581f2\broker\moquette_store.mapdb
+63   [main] INFO  MapDBPersistentStore  - Starting with existing [C:\Users\june\Desktop\nc\mqtt_broker-mcp_master\mqtt_broker-mcp_master-2a7ce5932489066690b180f9bda893cec48581f2\broker\moquette_store.mapdb] db file
+262  [main] INFO  FileAuthenticator  - Loading password file: config\password_file.conf
+694  [main] INFO  NettyAcceptor  - Server binded host: 0.0.0.0, port: 1883
+697  [main] INFO  NettyAcceptor  - Server binded host: 0.0.0.0, port: 8080
+0    [main] INFO  Server  - Persistent store file: C:\Users\june\Desktop\nc\mqtt_broker-mcp_master\mqtt_broker-mcp_master-2a7ce5932489066690b180f9bda893cec48581f2\broker\moquette_store.mapdb
+27   [main] INFO  MapDBPersistentStore  - Starting with existing [C:\Users\june\Desktop\nc\mqtt_broker-mcp_master\mqtt_broker-mcp_master-2a7ce5932489066690b180f9bda893cec48581f2\broker\moquette_store.mapdb] db file
+226  [main] INFO  FileAuthenticator  - Loading password file: config\password_file.conf
+633  [main] INFO  NettyAcceptor  - Server binded host: 0.0.0.0, port: 1883
+637  [main] INFO  NettyAcceptor  - Server binded host: 0.0.0.0, port: 8080
+0    [main] INFO  Server  - Persistent store file: C:\Users\june\Desktop\nc\mqtt_broker-mcp_master\mqtt_broker-mcp_master-2a7ce5932489066690b180f9bda893cec48581f2\broker\moquette_store.mapdb
+13   [main] INFO  MapDBPersistentStore  - Starting with existing [C:\Users\june\Desktop\nc\mqtt_broker-mcp_master\mqtt_broker-mcp_master-2a7ce5932489066690b180f9bda893cec48581f2\broker\moquette_store.mapdb] db file
+183  [main] INFO  FileAuthenticator  - Loading password file: config\password_file.conf
+551  [main] INFO  NettyAcceptor  - Server binded host: 0.0.0.0, port: 1883
+554  [main] INFO  NettyAcceptor  - Server binded host: 0.0.0.0, port: 8080
+1055 [nioEventLoopGroup-3-1] ERROR DatabaseClient  - API call failed [404] Broker not found
+1055 [nioEventLoopGroup-3-1] INFO  ProtocolProcessor  - Create persistent session for clientID <b141414141414141>
+1070 [nioEventLoopGroup-3-1] INFO  ClientSession  - cleaning old saved subscriptions for client <b141414141414141>
+1079 [nioEventLoopGroup-3-1] INFO  ProtocolProcessor  - Connected client ID <b141414141414141> with clean session true
+1082 [nioEventLoopGroup-3-1] INFO  ProtocolProcessor  - CONNECT processed
+1087 [nioEventLoopGroup-3-1] INFO  ClientSession  - <b141414141414141> subscribed to the topic filter <broadcast> with QoS 0 - MOST_ONE
+1097 [nioEventLoopGroup-3-1] INFO  ClientSession  - <b141414141414141> subscribed to the topic filter <b141414141414141> with QoS 0 - MOST_ONE
+0    [main] INFO  Server  - Persistent store file: C:\Users\june\Desktop\nc\mqtt_broker-mcp_master\mqtt_broker-mcp_master-2a7ce5932489066690b180f9bda893cec48581f2\broker\moquette_store.mapdb
+16   [main] INFO  MapDBPersistentStore  - Starting with existing [C:\Users\june\Desktop\nc\mqtt_broker-mcp_master\mqtt_broker-mcp_master-2a7ce5932489066690b180f9bda893cec48581f2\broker\moquette_store.mapdb] db file
+193  [main] INFO  FileAuthenticator  - Loading password file: config\password_file.conf
+571  [main] INFO  NettyAcceptor  - Server binded host: 0.0.0.0, port: 1883
+572  [main] INFO  NettyAcceptor  - Server binded host: 0.0.0.0, port: 8080
+1    [main] INFO  Server  - Persistent store file: C:\Users\june\Desktop\nc\mqtt_broker-mcp_master\mqtt_broker-mcp_master-2a7ce5932489066690b180f9bda893cec48581f2\broker\moquette_store.mapdb
+16   [main] INFO  MapDBPersistentStore  - Starting with existing [C:\Users\june\Desktop\nc\mqtt_broker-mcp_master\mqtt_broker-mcp_master-2a7ce5932489066690b180f9bda893cec48581f2\broker\moquette_store.mapdb] db file
+219  [main] INFO  FileAuthenticator  - Loading password file: config\password_file.conf
+611  [main] INFO  NettyAcceptor  - Server binded host: 0.0.0.0, port: 1883
+614  [main] INFO  NettyAcceptor  - Server binded host: 0.0.0.0, port: 8080
+0    [main] INFO  Server  - Persistent store file: C:\Users\june\Desktop\Project\nc\mqtt_broker-mcp_master\mqtt_broker-mcp_master-2a7ce5932489066690b180f9bda893cec48581f2\broker\moquette_store.mapdb
+15   [main] INFO  MapDBPersistentStore  - Starting with existing [C:\Users\june\Desktop\Project\nc\mqtt_broker-mcp_master\mqtt_broker-mcp_master-2a7ce5932489066690b180f9bda893cec48581f2\broker\moquette_store.mapdb] db file
+229  [main] INFO  FileAuthenticator  - Loading password file: config\password_file.conf
+584  [main] INFO  NettyAcceptor  - Server binded host: 0.0.0.0, port: 1883
+587  [main] INFO  NettyAcceptor  - Server binded host: 0.0.0.0, port: 8080
+0    [main] INFO  Server  - Persistent store file: C:\Users\june\Desktop\Project\nc\mqtt_broker-mcp_master\mqtt_broker-mcp_master-2a7ce5932489066690b180f9bda893cec48581f2\broker\moquette_store.mapdb
+18   [main] INFO  MapDBPersistentStore  - Starting with existing [C:\Users\june\Desktop\Project\nc\mqtt_broker-mcp_master\mqtt_broker-mcp_master-2a7ce5932489066690b180f9bda893cec48581f2\broker\moquette_store.mapdb] db file
+238  [main] INFO  FileAuthenticator  - Loading password file: config\password_file.conf
+607  [main] INFO  NettyAcceptor  - Server binded host: 0.0.0.0, port: 1883
+610  [main] INFO  NettyAcceptor  - Server binded host: 0.0.0.0, port: 8080
